@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "6496aeab1eb1088ed06e8e42",
+    "email": "nomansadi@atibhooj.com",
+    "Followers": "0",
+    "Following": "0",
+    "allLikes": "0",
+    "totalPosts": "0",
+    "userBio": false,
+    "userCoverPic": "https://i.ibb.co/2P6CmhT/336299544-748300420021238-8963284128671236930-n.jpg",
+    "userEmail": "nomansadi@atibhooj.com",
+    "userName": "Noman Sadi",
+    "userPassWord": "N0man2000@atibhooj",
+    "userProfilePic": "https://i.ibb.co/w618pwZ/332445449-871646267466458-3172854124870330170-n.jpg",
+    "userType": ["Founder"],
+    "verified": true,
+    "atibhoojMentors": true,
+    "teamAtibhooj": true,
+    "role": "admin",
+    "allFollowers": []
+  },
+  {
+    "_id": "6496aeab1eb1088ed06e8e43",
+    "email": "imtiaz@gmail.com",
+    "Following": "0",
+    "allLikes": "0",
+    "totalPosts": "0",
+    "userBio": "আমি চাই এ মন জয় করতে, চাইনা মিথ্যে ভালোবাসা দিয়ে বাধ্য করো আমাকে চলতে। আমি চাই এ মন জয় করতে ~",
+    "userCoverPic": "https://i.ibb.co/mJ3fSt8/351308948-571833055113813-4161563573089450233-n.jpg",
+    "userEmail": "imtiaz@gmail.com",
+    "userName": "Imtiaz Hossain",
+    "userPassWord": "123456",
+    "userProfilePic": "https://i.ibb.co/28pGh8P/349865163-561801476145699-1548622984248068469-n.jpg",
+    "userType": ["Developer"],
+    "verified": true,
+    "Followers": "0",
+    "teamAtibhooj": false,
+    "atibhoojMentors": false,
+    "role": "admin",
+    "allFollowers": [{ "userData": "nomansadi@atibhooj.com" }]
+  }
+]
